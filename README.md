@@ -2,9 +2,9 @@
 ## Origin
 The original repository of the PS-Battles Dataset is [here](https://github.com/dbisUnibas/PS-Battles). Howerver, the script can't work when you run it in certain areas, for example China. Here, we offer some methods for your obtaining the dataset.
 ## Methods
-### 1.Download images
-+ originals(contain 10,759 images): https://drive.google.com/open?id=1_BLic5R2_G4deMrGtuAqceKpsEFWCKU5
-+ photoshops(contain 37529 images):
+### 1.Download partial images from https://drive.google.com/open?id=1ocF2y32BRr-YvitRFdhm5mhN1tQB4wf6
++ originals(contain 10,759 images)
++ photoshops(contain 37529 images) 
 #### Attentions:
 1. Some images were deleted, so I can't download them. And for photoshops images, I have just downloaded 37529 images(The total number is 90886). My breakpoint is offered in main.js and you can go ahead if you need more images.
 2. The log.txt and originals_log2.txt record failed *images url*, *filename* and *errors* for my downloading original images. The log_photoshops.txt records record failed *images url*, *filename* and *errors* for my downloading photoshops images. You can run downloadFromLogs.js(Altering options is a must), and download the failed images.
