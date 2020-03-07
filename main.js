@@ -74,59 +74,18 @@ async function getResourceContent(page, url) {
     return content;
 };
 
-async function main1() {
-    // const browser = await puppeteer.launch({ 
-    //     headless: false 
-    // });
-    // const browser = await puppeteer.launch();
-    const dirPath = './data/originals';
-    const logPath = './data/log.txt';
-    const browser = await puppeteer.launch({
-        headless: true,
-        timeout: 5000,
-    });
-    // 捕获超时错误
-    // const page = await browser.newPage();
+async function main({
+    dirPath='./data/photoshops3', // 图片下载完成后保存的路径
+    logPath='./data/log_photoshops.txt', // 日志路径
+    navTimeout=30000, //超时时间
+    tsvPath='./photoshops.tsv',  //
+    useBreakPoint=true,
+    breakPointImgUrl='http://i.imgur.com/Dl3W0qg.jpg', //该断点是我上次下载photoshops图片的index，如果你想要继续我的进度下载，则直接运行
+}={}) {
 
-    const results = await readTSV('./originals.tsv', './data/originals', browser);
-    // http://i.imgur.com/XwDEmh0.jpg is downloaded!
-    const new_index = results.findIndex((el) => el.imgUrl === 'http://i.imgur.com/XwDEmh0.jpg');
-    const new_results = results.slice(new_index + 1);
-    console.log(new_index, results.length);
-    const page = await browser.newPage();
-
-    for await ({ imgUrl, fileName } of new_results) {
-        try {
-
-            await page.goto(imgUrl, { timeout: 30000 });
-            const url = await page.$eval('img', el => el.src);
-
-            const content = await getResourceContent(page, url);
-            const contentBuffer = Buffer.from(content, 'base64');
-            // await page.close();
-            fs.writeFileSync(dirPath + '/' + fileName, contentBuffer, 'base64');
-
-            console.log(`${imgUrl} is downloaded!`);
-        } catch (err) {
-            console.error(err);
-            logError(logPath, `${imgUrl} ${fileName}`)
-        }
-    }
-}
-
-
-
-
-async function main() {
-
-    const dirPath = './data/photoshops';
-    const logPath = './data/log_photoshops.txt';
-    const navTimeout = 30000; 
-
-    // const results = await readTSV('./originals.tsv');
-    const results = await readTSV('./photoshops.tsv');
+    const results = await readTSV(tsvPath);
  
-    const new_index = -1; //results.findIndex((el) => el.imgUrl === 'http://i.imgur.com/vWzGa.jpg');
+    const new_index = !useBreakPoint ? -1 : results.findIndex((el) => el.imgUrl === breakPointImgUrl);
    
     const new_results = results.slice(new_index + 1);
     console.log(new_index, results.length);

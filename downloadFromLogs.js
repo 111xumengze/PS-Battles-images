@@ -44,15 +44,22 @@ function readLogs(filePath, delimiter=' ') {
 
 }
 
-async function downloadImgsFromLogs() {
-    const dirPath = './data/originals2';
-    const logPath = './data/log.txt';
-    const errPath = './data/originals_log2.txt';
-    const navTimeout = 40000; 
+async function downloadImgsFromLogs({
+    dirPath = './data/originals2',
+    logPath = './data/log.txt',
+    errPath = './data/originals_log2.txt',
+    navTimeout = 40000,
+    useBreakPoint=false,
+    breakPointImgName='280wi1.jpg'
+}={}) {
+    // const dirPath = './data/originals2';
+    // const logPath = './data/log.txt';
+    // const errPath = './data/originals_log2.txt';
+    // const navTimeout = 40000; 
 
     const results = await readLogs(logPath);
 
-    const new_index = -1;//results.findIndex((el) => el.fileName === '280wi1.jpg');
+    const new_index = !useBreakPoint ? -1 : results.findIndex((el) => el.fileName === breakPointImgName);
     const new_results = results.slice(new_index + 1);
     console.log(new_index, results.length);
 
