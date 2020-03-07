@@ -1,0 +1,265 @@
+http://www2.macleans.ca/wp-content/uploads/2010/09/rtr2hyee.jpg 11waje.jpg Error: Error: failed to find element matching selector "img"
+http://pcdn.500px.net/8719794/0f32cf7cde5d98fd5a8b14e969c5dcabc985395f/4.jpg 145an0.jpg AssertionError [ERR_ASSERTION]: false == true
+http://pcdn.500px.net/19414673/33f221bcb013c1581dc751272a95bf1ac119a43a/4.jpg 140gin.jpg AssertionError [ERR_ASSERTION]: false == true
+http://pcdn.500px.net/8078787/934467f0233b2c05edbb5eb301d056896e4e4247/4.jpg 13tz0c.jpg AssertionError [ERR_ASSERTION]: false == true
+http://www.csmonitor.com/var/ezflow_site/storage/images/media/content/2012/0920-romney-atlanta-sized.jpg/13810963-1-eng-US/0920-ROMNEY-ATLANTA-sized.jpg_full_600.jpg 132dcz.jpg Error: Error: failed to find element matching selector "img"
+http://images.politico.com/global/2012/10/romney_fairfield_100812.jpeg 126c1h.jpg AssertionError [ERR_ASSERTION]: false == true
+http://cdn.theatlanticwire.com/img/upload/2012/07/04/AP120702135050.jpg 1098ia.jpg Error: Error: failed to find element matching selector "img"
+http://i.imgur.com/MV25j0k.jpg 1a7p8x.jpg Error: Error: failed to find element matching selector "img"
+http://images.nationalgeographic.com/wpf/media-live/photos/000/655/cache/deer-running-snow_65515_990x742.jpg 1bilso.jpg Error: Error: failed to find element matching selector "img"
+http://images.nationalgeographic.com/wpf/media-live/nirvana_images/ngpc-2011/2011/11/08/100724_217v0391-cb1320765777.jpg 1jsxaj.jpg Error: Error: failed to find element matching selector "img"
+http://c.o0bg.com/rf/image_960w/Boston/2011-2020/2013/06/26/BostonGlobe.com/Metro/Images/hernandezarrest2.jpg 1h40xi.jpg AssertionError [ERR_ASSERTION]: false == true
+http://farm3.staticflickr.com/2805/9465183643_f857371e4b_o_d.jpg 1jzoi2.jpg Error: net::ERR_ABORTED at http://farm3.staticflickr.com/2805/9465183643_f857371e4b_o_d.jpg
+http://c.o0bg.com/rf/image_960w/Boston/2011-2020/2013/08/28/BostonGlobe.com/Sports/Images/davis_bosbalt2_spts.jpg 1le03d.jpg AssertionError [ERR_ASSERTION]: false == true
+http://static1.volkskrant.nl/static/photo/2013/7/12/13/20130825205900/album_large_1816768.jpg 1l44fa.jpg Error: Error: failed to find element matching selector "img"
+http://pcdn.500px.net/36481710/248daac6bc039bb2f386fd3afd563716c64c6f37/2048.jpg 1ljdcp.jpg AssertionError [ERR_ASSERTION]: false == true
+http://blogs-images.forbes.com/davidewalt/files/2012/05/Konami-Laser-Scope.jpg 1jyhdg.jpg Error: net::ERR_TIMED_OUT at http://blogs-images.forbes.com/davidewalt/files/2012/05/Konami-Laser-Scope.jpg
+http://ppcdn.500px.org/43229900/398f9af2ba192a62744a81d9c540c0862e76b544/5.jpg 1ng2c8.jpg AssertionError [ERR_ASSERTION]: false == true
+http://ic.pics.livejournal.com/drugoi/484155/8818789/8818789_original.jpg 1snj2b.jpg AssertionError [ERR_ASSERTION]: false == true
+http://image.noelshack.com/fichiers/2013/51/1387675322-1496597-632426050150393-1951189948-n.jpg 1tfjy8.jpg Error: Error: failed to find element matching selector "img"
+http://static5.businessinsider.com/image/5134c70269bedd687600001f-1200/he-swims-in-freezing-siberian-lakes-for-fun.jpg 1uxdpo.jpg AssertionError [ERR_ASSERTION]: false == true
+http://static.businessinsider.com/image/52c97a3d6bb3f7ec074f26d9-1200/image.jpg 1uih1p.jpg AssertionError [ERR_ASSERTION]: false == true
+http://www.theglobeandmail.com/news/toronto/article5375821.ece/BINARY/w620/ford5.JPG 1r8n2f.jpg Error: Error: failed to find element matching selector "img"
+http://upload.wikimedia.org/wikipedia/commons/e/ed/Talpa_europaea_MHNT.jpg 1v0s8l.jpg TimeoutError: Navigation timeout of 40000 ms exceeded
+http://i.imgur.com/KJbEWC2.jpg 1xdmb9.jpg AssertionError [ERR_ASSERTION]: false == true
+http://totallycoolpix.com/wp-content/uploads/2010/10122010_best_of_2010_part_2/2010_part2_97.jpg 1zvzrr.jpg Error: net::ERR_CERT_DATE_INVALID at http://totallycoolpix.com/wp-content/uploads/2010/10122010_best_of_2010_part_2/2010_part2_97.jpg
+http://static2.businessinsider.com/image/52d51e8f6da811d67bb245a7/us-journalist-critical-of-putin-kicked-out-of-russia.jpg 21w4xc.jpg AssertionError [ERR_ASSERTION]: false == true
+http://static4.businessinsider.com/image/5208bafdeab8eaac4b000049-1200-/obama-golfs.jpg 2290hq.jpg AssertionError [ERR_ASSERTION]: false == true
+https://farm6.staticflickr.com/5573/14082068819_bd73196c88_k.jpg 26gwpx.jpg Error: Error: failed to find element matching selector "img"
+http://ppcdn.500px.org/1926493/3c9f226acc44907edc0ca15dc100564d4dcc0b5d/5.jpg 262zuf.jpg AssertionError [ERR_ASSERTION]: false == true
+http://ppcdn.500px.org/63885609/6316822d77347960e56c4fe5cd265927228d4ccf/2048.jpg 276v4d.jpg AssertionError [ERR_ASSERTION]: false == true
+http://cdn.thewire.com/media/img/upload/wire/2014/06/03/RTX10R8R/lead_large.jpg 27damv.jpg Error: Error: failed to find element matching selector "img"
+http://specials-images.forbesimg.com/imageserve/8bc5c74561d99bdcf1f0e77e57f47717/0x600.jpg 25s6v7.jpg Error: net::ERR_TIMED_OUT at http://specials-images.forbesimg.com/imageserve/8bc5c74561d99bdcf1f0e77e57f47717/0x600.jpg
+http://i.imgur.com/zarg79J.jpg.jpg 28gehv.jpg TimeoutError: Navigation timeout of 40000 ms exceeded
+http://i.imgur.com/00LyJIY.jpg 28n58q.jpg AssertionError [ERR_ASSERTION]: false == true
+http://images.nationalgeographic.com/wpf/media-live/photos/000/811/cache/otter-running-united-kingdom_81118_990x742.jpg 29yr0z.jpg Error: Error: failed to find element matching selector "img"
+http://m.c.lnkd.licdn.com/mpr/mpr/p/2/005/06e/2ab/3050588.jpg 2a1ejv.jpg Error: Error: failed to find element matching selector "img"
+http://i.imgur.com/Oy1zdWh.jpg 29q2y8.jpg TimeoutError: Navigation timeout of 40000 ms exceeded
+http://i.imgur.com/1LCILYC.jpg 2anv2d.jpg AssertionError [ERR_ASSERTION]: false == true
+http://cdn2.spiegel.de/images/image-729999-galleryV9-emcc.jpg 2by2oe.jpg Error: Error: failed to find element matching selector "img"
+http://ppcdn.500px.org/78742151/d2fd06a61944ea90d79f1a634a8c9d0c2e45a5a6/2048.jpg 2ctuq0.jpg AssertionError [ERR_ASSERTION]: false == true
+http://ppcdn.500px.org/78902609/8245ec0edb73b8945e5513b5f60a18eae0b9e102/5.jpg 2cvj8y.jpg AssertionError [ERR_ASSERTION]: false == true
+http://i.imgur.com/ZGwvT32.jpg 2exy96.jpg Error: Error: failed to find element matching selector "img"
+http://blognew.sandiegozoo.org/wp-content/uploads/2010/11/hippo_jay_parker.jpg 2g8rfn.jpg Error: Error: failed to find element matching selector "img"
+http://i.imgur.com/0rBUTT7.jpg 2jj00j.jpg TimeoutError: Navigation timeout of 40000 ms exceeded
+http://img-9gag-lol.9cache.com/photo/amLAdj2_700b.jpg 2l5s5t.jpg Error: Error: failed to find element matching selector "img"
+http://i.imgur.com/PApoYSz.jpg 2lz17m.jpg Error: Error: failed to find element matching selector "img"
+http://i.imgur.com/fDeYcWd.jpg 2lyw53.jpg Error: Error: failed to find element matching selector "img"
+http://i.imgur.com/NqWLIhF.jpg?1 2mh6p9.jpg Error: Error: failed to find element matching selector "img"
+http://i.imgur.com/HZ1t643.jpg 2mrvar.jpg AssertionError [ERR_ASSERTION]: false == true
+http://i.imgur.com/WqmjAVn.jpg 2n5xsr.jpg TimeoutError: Navigation timeout of 40000 ms exceeded
+http://i.imgur.com/CMQYfNJ.jpg 2ngg11.jpg AssertionError [ERR_ASSERTION]: false == true
+http://i.imgur.com/C1hZeXa.jpg 2nm0h7.jpg AssertionError [ERR_ASSERTION]: false == true
+http://i.imgur.com/f8ogpL5.jpg.jpg 2ni3zc.jpg TimeoutError: Navigation timeout of 40000 ms exceeded
+http://i.imgur.com/VMiPDU3.jpg 2nkgd5.jpg TimeoutError: Navigation timeout of 40000 ms exceeded
+http://i.imgur.com/NCBxxCS.jpg 2nmee5.jpg AssertionError [ERR_ASSERTION]: false == true
+http://i.imgur.com/9k9z0ML.jpg?1 2ohn1v.jpg AssertionError [ERR_ASSERTION]: false == true
+http://ppcdn.500px.org/54952580/6312fc5c7036101ec1d5ae73e5fc70214200a842/2048.jpg 2padxy.jpg AssertionError [ERR_ASSERTION]: false == true
+http://i.imgur.com/rix2MC3.jpg 2qwfh0.jpg Error: Error: failed to find element matching selector "img"
+http://i.imgur.com/X7oE6hk.png 2qivqy.png AssertionError [ERR_ASSERTION]: false == true
+http://i.imgur.com/xhCC0Jh.jpg 2qkf21.jpg AssertionError [ERR_ASSERTION]: false == true
+http://i.imgur.com/9Bime9A.jpg 2qpy98.jpg AssertionError [ERR_ASSERTION]: false == true
+https://ppcdn.500px.org/96086841/335e3b9c897b7bf5e666b49ced4674dee28b316c/5.jpg 2t1en7.jpg AssertionError [ERR_ASSERTION]: false == true
+http://blogs-images.forbes.com/andygreenberg/files/2012/06/0605_alexis-ohanian-reddit_600.jpg 2se5z4.jpg Error: net::ERR_TIMED_OUT at http://blogs-images.forbes.com/andygreenberg/files/2012/06/0605_alexis-ohanian-reddit_600.jpg
+https://ppcdn.500px.org/97160581/08631d2302e3077bfff67c97d397e3611637a40a/2048.jpg 2u2zo6.jpg AssertionError [ERR_ASSERTION]: false == true
+http://cdn.hitfix.com/photos/5637614/JenniferLawrenceEmmaWatsonfacepalm2LS_article_story_large.jpg 2uyyr1.jpg Error: Error: failed to find element matching selector "img"
+http://static.panoramio.com/photos/large/76496262.jpg 2vlmp2.jpg Error: Error: failed to find element matching selector "img"
+http://i.imgur.com/zLLsC12.jpg 2vcsjd.jpg TimeoutError: Navigation timeout of 40000 ms exceeded
+http://i.imgur.com/nmvoPxp.jpg 2vsrbg.jpg AssertionError [ERR_ASSERTION]: false == true
+http://whatisthelab.dk/l33t/2012/03/balalaika_bear.jpg 2wbpri.jpg Error: Error: failed to find element matching selector "img"
+http://static.businessinsider.com/image/54512be3eab8ea2e7047b15f/image.jpg 2wfd5l.png AssertionError [ERR_ASSERTION]: false == true
+http://static.businessinsider.com/image/5134c82aeab8eaac2d000000/image.jpg 2wr8xk.jpg AssertionError [ERR_ASSERTION]: false == true
+http://i.imgur.com/YWXmRAb.jpg 2w5qfh.jpg TimeoutError: Navigation timeout of 40000 ms exceeded
+http://static1.businessinsider.com/image/5134c5f26bb3f7271f000028-1200/putin-hosted-a-lavish-tea-party-with-an-8-year-old-patient-of-the-rogachev-federal-research-and-clinical-center-of-pediatric-hematology-oncology-and-immunology.jpg 2wx13b.jpg AssertionError [ERR_ASSERTION]: false == true
+http://m.c.lnkd.licdn.com/mpr/mpr/p/2/005/06e/2ab/3050588.jpg 2a1ejv.jpg Error: Error: failed to find element matching selector "img"
+http://images.nationalgeographic.com/wpf/media-live/photos/000/811/cache/otter-running-united-kingdom_81118_990x742.jpg 29yr0z.jpg Error: Error: failed to find element matching selector "img"
+http://cdn2.spiegel.de/images/image-729999-galleryV9-emcc.jpg 2by2oe.jpg Error: Error: failed to find element matching selector "img"
+http://ppcdn.500px.org/78902609/8245ec0edb73b8945e5513b5f60a18eae0b9e102/5.jpg 2cvj8y.jpg AssertionError [ERR_ASSERTION]: false == true
+http://ppcdn.500px.org/78742151/d2fd06a61944ea90d79f1a634a8c9d0c2e45a5a6/2048.jpg 2ctuq0.jpg AssertionError [ERR_ASSERTION]: false == true
+http://blognew.sandiegozoo.org/wp-content/uploads/2010/11/hippo_jay_parker.jpg 2g8rfn.jpg Error: Error: failed to find element matching selector "img"
+http://i.imgur.com/VgM3XUZ.jpg 2cotu4.jpg TimeoutError: Navigation timeout of 40000 ms exceeded
+http://img-9gag-lol.9cache.com/photo/amLAdj2_700b.jpg 2l5s5t.jpg Error: Error: failed to find element matching selector "img"
+http://ppcdn.500px.org/54952580/6312fc5c7036101ec1d5ae73e5fc70214200a842/2048.jpg 2padxy.jpg AssertionError [ERR_ASSERTION]: false == true
+http://i.imgur.com/BnWfm8J.jpg 2qeubg.jpg Error: Error: failed to find element matching selector "img"
+http://i.imgur.com/lCSWip5.jpg 2me68f.jpg AssertionError [ERR_ASSERTION]: false == true
+https://ppcdn.500px.org/96086841/335e3b9c897b7bf5e666b49ced4674dee28b316c/5.jpg 2t1en7.jpg AssertionError [ERR_ASSERTION]: false == true
+https://ppcdn.500px.org/97160581/08631d2302e3077bfff67c97d397e3611637a40a/2048.jpg 2u2zo6.jpg AssertionError [ERR_ASSERTION]: false == true
+http://static.panoramio.com/photos/large/76496262.jpg 2vlmp2.jpg Error: Error: failed to find element matching selector "img"
+http://static.businessinsider.com/image/54512be3eab8ea2e7047b15f/image.jpg 2wfd5l.png AssertionError [ERR_ASSERTION]: false == true
+http://static.businessinsider.com/image/5134c82aeab8eaac2d000000/image.jpg 2wr8xk.jpg AssertionError [ERR_ASSERTION]: false == true
+http://static1.businessinsider.com/image/5134c5f26bb3f7271f000028-1200/putin-hosted-a-lavish-tea-party-with-an-8-year-old-patient-of-the-rogachev-federal-research-and-clinical-center-of-pediatric-hematology-oncology-and-immunology.jpg 2wx13b.jpg AssertionError [ERR_ASSERTION]: false == true
+http://cdn.hitfix.com/photos/5637614/JenniferLawrenceEmmaWatsonfacepalm2LS_article_story_large.jpg 2uyyr1.jpg Error: Error: failed to find element matching selector "img"
+http://whatisthelab.dk/l33t/2012/03/balalaika_bear.jpg 2wbpri.jpg Error: Error: failed to find element matching selector "img"
+http://i.imgur.com/pjPby5c.jpg 2m6tba.jpg TimeoutError: Navigation timeout of 40000 ms exceeded
+http://ak-hdl.buzzfed.com/static/2015-03/23/13/enhanced/webdr07/original-20985-1427132525-29.jpg 301s62.jpg Error: Error: failed to find element matching selector "img"
+http://0.media.collegehumor.cvcdn.com/39/70/e552d1e36ea0db0ec715cf36f2fb5cb0.jpg 307m52.jpg Error: Error: failed to find element matching selector "img"
+http://blogs-images.forbes.com/andygreenberg/files/2012/06/0605_alexis-ohanian-reddit_600.jpg 2se5z4.jpg Error: net::ERR_TIMED_OUT at http://blogs-images.forbes.com/andygreenberg/files/2012/06/0605_alexis-ohanian-reddit_600.jpg
+http://i.imgur.com/fBa5saB.jpg 30hf8l.jpg TimeoutError: Navigation timeout of 40000 ms exceeded
+http://images.nationalgeographic.com/wpf/media-live/photos/000/881/overrides/tawny-frogmouth-australia-raptor_88174_990x742.jpg 395w9e.jpg Error: Error: failed to find element matching selector "img"
+http://i.imgur.com/7SWes1f.jpg 3672fg.jpg TimeoutError: Navigation timeout of 40000 ms exceeded
+http://media.canvasprints.canvaspeople.com/wp-content/uploads/2014/06/HD-Cute-Animals-rabbits-kissing.jpg 3aysz7.jpg Error: Error: failed to find element matching selector "img"
+http://cdn.teamcococdn.com/image/1000x1000,scale:max/3p9a4500-559f1c7e6c75e.jpg 3cr8cg.jpg Error: Error: failed to find element matching selector "img"
+http://clashdaily.com/wp-content/uploads/2013/07/creepy-guy.jpg 3fssc6.jpg Error: Error: failed to find element matching selector "img"
+https://i.imgur.com/HwjK2dX.jpg 3gcjf3.jpg TimeoutError: Navigation timeout of 40000 ms exceeded
+http://i.imgur.com/oscdGhQ.jpg 3ggwo4.jpg AssertionError [ERR_ASSERTION]: false == true
+https://i.imgur.com/DlflNN1.jpg 3geazc.jpg TimeoutError: Navigation timeout of 40000 ms exceeded
+https://i.imgur.com/UwbRuj5.jpg 3gfh1s.jpg TimeoutError: Navigation timeout of 40000 ms exceeded
+https://i.imgur.com/jDimNTZ.jpg 3ggha2.jpg TimeoutError: Navigation timeout of 40000 ms exceeded
+https://i.imgur.com/gWURXne.jpg 3gh5xf.jpg TimeoutError: Navigation timeout of 40000 ms exceeded
+http://i.imgur.com/S6a6cGi.png 3gqdje.png TimeoutError: Navigation timeout of 40000 ms exceeded
+https://i.imgur.com/v6I5OHX.jpg 3gqi7q.jpg TimeoutError: Navigation timeout of 40000 ms exceeded
+https://i.imgur.com/xAV5ufE.jpg 3gqlmb.jpg TimeoutError: Navigation timeout of 40000 ms exceeded
+https://i.imgur.com/9UTZBdw.jpg 3gxnch.jpg TimeoutError: Navigation timeout of 40000 ms exceeded
+http://i.imgur.com/pI7yxkM.jpg 3gz0p0.jpg TimeoutError: Navigation timeout of 40000 ms exceeded
+https://i.imgur.com/c3EcKec.jpg 3gztak.jpg TimeoutError: Navigation timeout of 40000 ms exceeded
+http://cdn3.spiegel.de/images/image-882416-galleryV9-oplc.jpg 3har38.jpg Error: Error: failed to find element matching selector "img"
+http://i.imgur.com/HRKH8C6.png 3h0p7e.png TimeoutError: Navigation timeout of 40000 ms exceeded
+http://i.imgur.com/Chf6Cua.jpg 3h3diq.jpg TimeoutError: Navigation timeout of 40000 ms exceeded
+http://i.imgur.com/ngMUMtV.jpg 3h6pa3.jpg TimeoutError: Navigation timeout of 40000 ms exceeded
+https://i.imgur.com/UM0iMqa.jpg 3h8swq.jpg TimeoutError: Navigation timeout of 40000 ms exceeded
+https://i.imgur.com/YX3MCHx.png 3hbv50.png TimeoutError: Navigation timeout of 40000 ms exceeded
+https://i.imgur.com/0N2uwU8.jpg 3hfid1.jpg TimeoutError: Navigation timeout of 40000 ms exceeded
+http://i.imgur.com/b6Fhwpl.jpg 3hm006.jpg AssertionError [ERR_ASSERTION]: false == true
+https://i.imgur.com/PRUfo0i.jpg 3hkh6o.jpg TimeoutError: Navigation timeout of 40000 ms exceeded
+https://i.imgur.com/4aLJwD7.jpg 3hryk3.jpg TimeoutError: Navigation timeout of 40000 ms exceeded
+https://i.imgur.com/4HnTCcF.jpg 3hs4hb.jpg TimeoutError: Navigation timeout of 40000 ms exceeded
+https://usatftw.files.wordpress.com/2015/08/epa_china_iaaf_athletics_world_championships_beiji_75409474.jpg?w=1000&amp;h=600&amp;crop=1.jpg 3ilx84.jpg AssertionError [ERR_ASSERTION]: false == true
+https://i.imgur.com/PUIGEAP.jpg 3hy21r.jpg TimeoutError: Navigation timeout of 40000 ms exceeded
+https://i.imgur.com/gNoGo3H.jpg 3i2uvl.jpg TimeoutError: Navigation timeout of 40000 ms exceeded
+https://i.imgur.com/n72bKGj.jpg 3i36el.jpg TimeoutError: Navigation timeout of 40000 ms exceeded
+http://i.imgur.com/T9WNH7N.jpg 3ij2v9.jpg TimeoutError: Navigation timeout of 40000 ms exceeded
+http://i.imgur.com/P2LCLUc.png 3jaxgr.png TimeoutError: Navigation timeout of 40000 ms exceeded
+http://i.imgur.com/RrWFJRy.jpg 3jwzdj.jpg TimeoutError: Navigation timeout of 40000 ms exceeded
+http://i.onionstatic.com/onion/5138/7/16x9/1200.jpg 3lzm5a.jpg Error: Error: failed to find element matching selector "img"
+http://static5.businessinsider.com/image/560ab084dd08956d718b46aa-1474-1105/rtr17zb2.jpg 3mujlh.jpg AssertionError [ERR_ASSERTION]: false == true
+http://i.imgur.com/WcJUBgh.jpg 3kg2up.jpg TimeoutError: Navigation timeout of 40000 ms exceeded
+http://www.slate.com/content/dam/slate/blogs/the_slatest/2015/09/26/michelle_obama_steals_show_at_state_dinner_with_vera_wang_dress/490037450-first-lady-michelle-obama-straightens-u-s-president.jpg 3ng0xz.jpg Error: Error: failed to find element matching selector "img"
+https://c1.staticflickr.com/1/602/22594005636_a98e9db978_o.jpg 3qyhjg.jpg Error: Error: failed to find element matching selector "img"
+http://i.imgur.com/3fCsxjT.png 3onsaw.png AssertionError [ERR_ASSERTION]: false == true
+http://i.imgur.com/GFz9ROS.jpg 3ptlhu.jpg AssertionError [ERR_ASSERTION]: false == true
+http://media.vanityfair.com/photos/565c75cc3999e19f5062c428/master/w_900,c_limit/pope-francis-bars.jpg 3uwdv5.jpg AssertionError [ERR_ASSERTION]: false == true
+http://i.imgur.com/t0yw8gA.jpg 3wn99r.jpg Error: Error: failed to find element matching selector "img"
+http://images.nationalgeographic.com/wpf/media-live/photos/000/906/cache/camel-yawn-pyramid_90685_990x742.jpg 3vqay0.jpg Error: Error: failed to find element matching selector "img"
+http://channel.nationalgeographic.com/exposure/content/photo/photo/2100672_downward-spiral_oj5art4dcr265hawylupk5urw4eatuw6lrlcsphco3flmkbrawuq_757x567.jpg 3rhvtt.jpg TimeoutError: Navigation timeout of 40000 ms exceeded
+http://i.imgur.com/ntmlFQX.jpg 3unic5.jpg AssertionError [ERR_ASSERTION]: false == true
+https://i.imgur.com/bW29CSl.jpg 3x6o5k.jpg TimeoutError: Navigation timeout of 40000 ms exceeded
+https://i.imgur.com/GmJjWZX.jpg 3xpqe6.jpg TimeoutError: Navigation timeout of 40000 ms exceeded
+https://i.imgur.com/6yhAuKq.jpg 3y0rfq.jpg TimeoutError: Navigation timeout of 40000 ms exceeded
+http://i.imgur.com/5pYzWw3.jpg 3ymjab.png TimeoutError: Navigation timeout of 40000 ms exceeded
+http://i.imgur.com/Sr8oSwC.jpg 43j3fj.jpg Error: Error: failed to find element matching selector "img"
+http://i.imgur.com/w0U2wqz.jpg 3znj7u.jpg TimeoutError: Navigation timeout of 40000 ms exceeded
+http://i.imgur.com/tdrcvDd.jpg 43ma39.jpg TimeoutError: Navigation timeout of 40000 ms exceeded
+http://i.imgur.com/PHsng73.jpg 43pw6k.jpg TimeoutError: Navigation timeout of 40000 ms exceeded
+http://i.imgur.com/fqi20dS.png 43uaqy.png TimeoutError: Navigation timeout of 40000 ms exceeded
+http://i.imgur.com/MPU6q2y.png 445zdm.png TimeoutError: Navigation timeout of 40000 ms exceeded
+http://i.imgur.com/B4ZC2Q0.png 446xw6.png TimeoutError: Navigation timeout of 40000 ms exceeded
+http://i.imgur.com/1wlmWBm.jpg 44813l.jpg TimeoutError: Navigation timeout of 40000 ms exceeded
+http://i.imgur.com/mmlfirs.jpg 44b8e1.jpg TimeoutError: Navigation timeout of 40000 ms exceeded
+http://i.imgur.com/QARz4JC.jpg 45qtx6.jpg AssertionError [ERR_ASSERTION]: false == true
+http://i.imgur.com/9oDYtTn.jpg 45onhr.jpg TimeoutError: Navigation timeout of 40000 ms exceeded
+http://i.imgur.com/oTKO9o5.png 46l159.png TimeoutError: Navigation timeout of 40000 ms exceeded
+http://i.imgur.com/VlubIiA.jpg 46th7o.jpg TimeoutError: Navigation timeout of 40000 ms exceeded
+http://i.imgur.com/i28SbKO.jpg 48m4ny.jpg Error: Error: failed to find element matching selector "img"
+http://i.imgur.com/DQGJ1Ep.jpg 46w9xj.jpg TimeoutError: Navigation timeout of 40000 ms exceeded
+http://i.imgur.com/mUfbBfn.jpg 46yzzk.jpg TimeoutError: Navigation timeout of 40000 ms exceeded
+http://i.imgur.com/p0dTZ78.jpg 48mbxz.jpg Error: Error: failed to find element matching selector "img"
+http://i.imgur.com/mnh6vvU.jpg.jpg 4790tu.jpg TimeoutError: Navigation timeout of 40000 ms exceeded
+http://i.imgur.com/ciu2FpS.jpg 488v5v.jpg TimeoutError: Navigation timeout of 40000 ms exceeded
+http://i.imgur.com/3XVOkpA.jpg 48mcrl.jpg TimeoutError: Navigation timeout of 40000 ms exceeded
+http://i.imgur.com/8H6mKeD.jpg 4a8vn1.jpg AssertionError [ERR_ASSERTION]: false == true
+http://www.radass.com/wp-content/uploads/2015/07/Elizabeth-Olsen-03.jpg 49366m.jpg TimeoutError: Navigation timeout of 40000 ms exceeded
+http://i.imgur.com/luck6Mv.jpg 496xg2.jpg TimeoutError: Navigation timeout of 40000 ms exceeded
+http://i.imgur.com/Wfh1Us6.jpg.png 4bs4j5.png TimeoutError: Navigation timeout of 40000 ms exceeded
+http://i.imgur.com/Gu0kx09.jpg 4bvwoa.jpg TimeoutError: Navigation timeout of 40000 ms exceeded
+http://i.imgur.com/nkwOBuj.jpg 4cjlcc.jpg TimeoutError: Navigation timeout of 40000 ms exceeded
+http://i.imgur.com/xL3dUQ0.jpg 4cijq8.jpg TimeoutError: Navigation timeout of 40000 ms exceeded
+http://i.imgur.com/xiRjVqT.jpg.png 4cjxsi.png TimeoutError: Navigation timeout of 40000 ms exceeded
+http://maisonbisson.com/files/2014/01/water-scooter-personal-submarine-bath-toy.jpg 4ddg4g.jpg Error: Error: failed to find element matching selector "img"
+http://i.imgur.com/KH76BPw.jpg 4cl8j9.jpg TimeoutError: Navigation timeout of 40000 ms exceeded
+http://i.imgur.com/bGpJHS8.jpg 4d20sk.jpg Error: Error: failed to find element matching selector "img"
+http://i.imgur.com/PcR1Dy9.jpg 4cs956.jpg TimeoutError: Navigation timeout of 40000 ms exceeded
+http://i.imgur.com/xd8rr79.jpg 4cva4c.png TimeoutError: Navigation timeout of 40000 ms exceeded
+http://cdn.inquisitr.com/wp-content/uploads/2016/03/Ted-Cruz-4.jpg 4elvuv.jpg Error: Error: failed to find element matching selector "img"
+http://i.imgur.com/KFnIhca.jpg 4dftqr.jpg AssertionError [ERR_ASSERTION]: false == true
+http://uploads3.wikiart.org/images/fernando-botero/still-life-with-green-soup.jpg 4daqil.jpg TimeoutError: Navigation timeout of 40000 ms exceeded
+http://i.imgur.com/I16MJF0.jpg?1 4dehn8.jpg TimeoutError: Navigation timeout of 40000 ms exceeded
+http://i.imgur.com/BHVUgpT.jpg 4e5jeo.jpg TimeoutError: Navigation timeout of 40000 ms exceeded
+http://cdn.theatlantic.com/assets/media/img/photo/2016/04/photos-of-the-week-49-415/w08_AP668798804346/main_1500.jpg 4eypwv.jpg TimeoutError: Navigation timeout of 40000 ms exceeded
+https://c2.staticflickr.com/2/1472/26461166565_03c142bd7c_o.jpg 4f24il.jpg TimeoutError: Navigation timeout of 40000 ms exceeded
+http://i.imgur.com/kMlpALD.jpg 4fk13l.jpg AssertionError [ERR_ASSERTION]: false == true
+http://i.imgur.com/R6LiXcQ.jpg.jpg 4f6x7s.jpg TimeoutError: Navigation timeout of 40000 ms exceeded
+https://i.imgur.com/iltRb01.jpg 4fq66q.jpg TimeoutError: Navigation timeout of 40000 ms exceeded
+https://i.imgur.com/6iPwYBx.jpg 4gf5xt.jpg TimeoutError: Navigation timeout of 40000 ms exceeded
+http://i.imgur.com/0EkgxJz.png?1 4gjlwi.png TimeoutError: Navigation timeout of 40000 ms exceeded
+https://i.imgur.com/PfhGVBk.jpg 4gobvv.jpg TimeoutError: Navigation timeout of 40000 ms exceeded
+https://i.imgur.com/rAd50cR.jpg 4gt2ld.jpg TimeoutError: Navigation timeout of 40000 ms exceeded
+http://i.imgur.com/xVtGx4w.jpg 4gvn3k.jpg TimeoutError: Navigation timeout of 40000 ms exceeded
+https://i.imgur.com/Jj2mVdi.jpg 4gw39b.jpg TimeoutError: Navigation timeout of 40000 ms exceeded
+http://i.imgur.com/Njrkuz6.jpg 4h0fd3.jpg TimeoutError: Navigation timeout of 40000 ms exceeded
+https://i.imgur.com/Vo34Dft.jpg 4hcv6w.jpg TimeoutError: Navigation timeout of 40000 ms exceeded
+http://i.imgur.com/hQdL8gr.jpg 4hhhf4.jpg TimeoutError: Navigation timeout of 40000 ms exceeded
+https://i.imgur.com/9IcjMnP.jpg 4j2cj6.jpg TimeoutError: Navigation timeout of 40000 ms exceeded
+https://i.imgur.com/6RxghJf.jpg 4jg0ai.jpg TimeoutError: Navigation timeout of 40000 ms exceeded
+https://i.imgur.com/4cUGOi9.jpg 4jg47z.jpg TimeoutError: Navigation timeout of 40000 ms exceeded
+http://i.imgur.com/EZQ3jQ0.jpg.jpg 4jo9xs.jpg TimeoutError: Navigation timeout of 40000 ms exceeded
+https://i.imgur.com/X4bon05.jpg 4jidoh.jpg TimeoutError: Navigation timeout of 40000 ms exceeded
+https://i.imgur.com/nzsYegu.jpg 4jsy58.jpg TimeoutError: Navigation timeout of 40000 ms exceeded
+https://i.imgur.com/jcbg7RD.jpg 4k47e5.jpg TimeoutError: Navigation timeout of 40000 ms exceeded
+http://i.imgur.com/gPy9rnR.jpg 4k80bm.jpg TimeoutError: Navigation timeout of 40000 ms exceeded
+http://i.imgur.com/RqyNiNV.jpg 4klt6m.jpg TimeoutError: Navigation timeout of 40000 ms exceeded
+http://i.imgur.com/snd7mMG.jpg 4lal9v.jpg TimeoutError: Navigation timeout of 40000 ms exceeded
+http://i.imgur.com/cFI7AqY.jpg 4lpy89.jpg TimeoutError: Navigation timeout of 40000 ms exceeded
+http://static.independent.co.uk/s3fs-public/styles/story_large/public/thumbnails/image/2016/06/10/12/kim-jong-un.jpg 4ngj9c.jpg AssertionError [ERR_ASSERTION]: false == true
+http://i.imgur.com/ESAn9YL.png 4nfrdw.png Error: Error: failed to find element matching selector "img"
+http://i.imgur.com/VHUaPKx.jpg 4mj5c3.jpg TimeoutError: Navigation timeout of 40000 ms exceeded
+http://i.imgur.com/fDeSkuo.jpg 4nagim.jpg TimeoutError: Navigation timeout of 40000 ms exceeded
+http://i.imgur.com/kXek8Xk.jpg 4og3qp.jpg TimeoutError: Navigation timeout of 40000 ms exceeded
+http://i.imgur.com/mAzdadp.jpg 4oyq6m.jpg TimeoutError: Navigation timeout of 40000 ms exceeded
+http://i.imgur.com/QvvCyuO.jpg 4ozumr.jpg TimeoutError: Navigation timeout of 40000 ms exceeded
+http://i.imgur.com/weh90Vp.jpg 4p0pwp.jpg TimeoutError: Navigation timeout of 40000 ms exceeded
+http://i.imgur.com/b2CZmbg.jpg 4puw3s.jpg Error: Error: failed to find element matching selector "img"
+http://i.imgur.com/CkwNJvg.jpg.png 4p2p77.png TimeoutError: Navigation timeout of 40000 ms exceeded
+http://i.imgur.com/9SvivvY.jpg 4psktb.jpg TimeoutError: Navigation timeout of 40000 ms exceeded
+http://media.nbcbayarea.com/images/987*555/trump_pence.png 4vchlx.png Error: Error: failed to find element matching selector "img"
+https://pbs.twimg.com/media/Cqt2pw_WEAESdWz.jpg 4zjej1.jpg Error: Error: failed to find element matching selector "img"
+https://pbs.twimg.com/media/CuXtDsLXEAEcFO1.jpg 56pmwy.jpg Error: Error: failed to find element matching selector "img"
+https://i1.rgstatic.net/blog/files/2016/06/monkey3.jpg 55iinm.jpg AssertionError [ERR_ASSERTION]: false == true
+http://assets.teenvogue.com/photos/57eddc9fdb6cb3867bce852a/master/pass/tout.jpg 5j6nkh.jpg AssertionError [ERR_ASSERTION]: false == true
+https://media1.popsugar-assets.com/files/thumbor/Nb064E2dSbdW1ELm01IIdRlwnkg/fit-in/1024x1024/filters:format_auto-!!-:strip_icc-!!-/2014/07/03/041/n/1922507/8cd095bfd3c9752c_thumb_temp_image351276961404258877/i/Cat-Dressed-Princess-Leia.jpg 5kmodx.jpg AssertionError [ERR_ASSERTION]: false == true
+http://i.imgur.com/FPn1tHB.jpg 5ngkgl.jpg TimeoutError: Navigation timeout of 40000 ms exceeded
+http://cdn.inquisitr.com/wp-content/uploads/2017/01/Press-Secretary-Sean-Spicer-Raged-on-Twitter-For-5-Years-Against-Dippin-Dots.jpg 5t9lpo.jpg Error: Error: failed to find element matching selector "img"
+http://i.imgur.com/YkKYxNU.png 5pqvf1.png TimeoutError: Navigation timeout of 40000 ms exceeded
+http://pic.gl/images/2017/03/19/0asdfJ.jpg 61mukr.jpg Error: Error: failed to find element matching selector "img"
+http://i.imgur.com/3FEjMWF.jpg 5x38vg.jpg TimeoutError: Navigation timeout of 40000 ms exceeded
+http://i.imgur.com/SgYmqWS.jpg 6crvyl.jpg TimeoutError: Navigation timeout of 40000 ms exceeded
+https://images.freecreatives.com/wp-content/uploads/2016/02/Elephant-Fish-Wallpaper-For-Free.jpg 6j1i5e.jpg AssertionError [ERR_ASSERTION]: false == true
+http://i.cubeupload.com/eliTaR.jpg 6m518d.jpg AssertionError [ERR_ASSERTION]: false == true
+http://static4.businessinsider.com/image/547eb7486bb3f7e81b6044d3/north-korea-has-banned-the-use-of-the-name-kim-jong-un.jpg 6nsyuu.jpg AssertionError [ERR_ASSERTION]: false == true
+http://static3.businessinsider.com/image/54d3ed8b6bb3f7ab7a822904-2400/rtr3a543.jpg 6oezv5.jpg AssertionError [ERR_ASSERTION]: false == true
+http://i.imgur.com/0xZibbY.jpg 6rxhnk.jpg TimeoutError: Navigation timeout of 40000 ms exceeded
+https://petapixel.com/assets/uploads/2017/10/14032803_163063017459756_966416396_n-705x800.jpg 78ujqm.jpg Error: net::ERR_CONNECTION_CLOSED at https://petapixel.com/assets/uploads/2017/10/14032803_163063017459756_966416396_n-705x800.jpg
+https://pbs.twimg.com/media/DPmYWH3WAAAKJGq.jpg 7g1mp6.jpg Error: Error: failed to find element matching selector "img"
+https://c2.staticflickr.com/8/7004/6802649937_55503d4ab8_o.jpg 7aq45r.jpg TimeoutError: Navigation timeout of 40000 ms exceeded
+http://media.diepresse.com/images/uploads_1152/9/5/1/5318993/haende_1510549459982336.jpg 7clod9.jpg TimeoutError: Navigation timeout of 40000 ms exceeded
+http://25.media.tumblr.com/tumblr_m8j0vh361C1r9khx4o1_1280.jpg 7g9jj6.jpg TimeoutError: Navigation timeout of 40000 ms exceeded
+https://pbs.twimg.com/media/DUUMcJOX4AAJdXH.jpg 7soscf.jpg Error: Error: failed to find element matching selector "img"
+http://i.imgur.com/RL03M.jpg phgo2.jpg AssertionError [ERR_ASSERTION]: false == true
+http://i.imgur.com/96cDK.jpg pvg4j.jpg AssertionError [ERR_ASSERTION]: false == true
+http://i.imgur.com/yn8ni.jpg q9ozw.jpg TimeoutError: Navigation timeout of 40000 ms exceeded
+http://i.imgur.com/TyxpP.jpg r183x.jpg TimeoutError: Navigation timeout of 40000 ms exceeded
+http://i.imgur.com/AoSXR.jpg r2i3y.jpg TimeoutError: Navigation timeout of 40000 ms exceeded
+http://i.imgur.com/rm8xI.jpg rsaz6.jpg AssertionError [ERR_ASSERTION]: false == true
+http://i.imgur.com/v8bZo.jpg t2eod.jpg Error: Error: failed to find element matching selector "img"
+http://inapcache.boston.com/universal/site_graphics/blogs/bigpicture/jubilee/bp21.jpg uo281.jpg TimeoutError: Navigation timeout of 40000 ms exceeded
+http://i.imgur.com/q6HH0.jpg y2gmy.jpg TimeoutError: Navigation timeout of 40000 ms exceeded
+http://i.imgur.com/hsPO2.jpg yr2en.jpg AssertionError [ERR_ASSERTION]: false == true
+http://i.imgur.com/LdgOo.jpg yuylx.jpg TimeoutError: Navigation timeout of 40000 ms exceeded
+http://i.imgur.com/IAhBj.jpg z0bcu.jpg TimeoutError: Navigation timeout of 40000 ms exceeded
+http://i.imgur.com/nnoaW.jpg z0wtc.jpg AssertionError [ERR_ASSERTION]: false == true
+http://i.imgur.com/wbLCr.jpg?1 z6lsp.jpg TimeoutError: Navigation timeout of 40000 ms exceeded
+http://i.imgur.com/OE57u.jpg zdb43.jpg TimeoutError: Navigation timeout of 40000 ms exceeded
+http://i.imgur.com/FxOsn.jpg zdjdl.jpg TimeoutError: Navigation timeout of 40000 ms exceeded
+http://i.imgur.com/8RCtt.jpg.jpg zgdxn.jpg TimeoutError: Navigation timeout of 40000 ms exceeded
+http://i.imgur.com/haNev.jpg zgq1g.jpg TimeoutError: Navigation timeout of 40000 ms exceeded
+http://i.imgur.com/wQgTT.jpg zil3i.jpg TimeoutError: Navigation timeout of 40000 ms exceeded
+http://i.imgur.com/tbhli.png zn7le.png TimeoutError: Navigation timeout of 40000 ms exceeded
