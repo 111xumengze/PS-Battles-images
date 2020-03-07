@@ -3,7 +3,8 @@
 The original repository of the PS-Battles Dataset is [here](https://github.com/dbisUnibas/PS-Battles). Howerver, the script can't work when you run it in certain areas, for example China. Here, we offer some methods for your obtaining the dataset.
 ## Methods
 ### 1.Download images directly
-+ originals: https://drive.google.com/open?id=1_BLic5R2_G4deMrGtuAqceKpsEFWCKU5
+#### Attention: Some images were deleted, so I can't download them.
++ originals(contain 10,759 images): https://drive.google.com/open?id=1_BLic5R2_G4deMrGtuAqceKpsEFWCKU5
 + photoshops:
 ### 2.Run the script
 #### Attention: If you have socket proxy, you can ignore the following and use request, http module redirectly.
